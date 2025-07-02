@@ -2,7 +2,7 @@
 namespace Render {
     //% block
     //% group="Basic"
-    //% weight=88
+    //% weight=89
     export function Ceiling(ceil: tiles.TileMapData) {
         Render.setCeilingTilemap(ceil)
     }
